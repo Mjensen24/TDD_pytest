@@ -15,3 +15,5 @@ def parse(stuff):
         return 7
     elif stuff == "VIII":
         return 8
+    elif stuff == "IX":
+        return 9
